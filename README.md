@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JaneHope607/JaneHope607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Jane O'Donnell. I am currently enrolled in the Codeclan Professional Software Development Course as part of Cohort E41. I am based in Edinburgh and looking for work in Software Development.
 
 - 🔭 I’m currently studying Software Development at CodeClan in Edinburgh!
