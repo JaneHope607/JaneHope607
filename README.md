@@ -13,3 +13,4 @@ My name is Jane O'Donnell. I recently completed the CodeClan Professional Softwa
   </a> &nbsp; 
 </p>
 
+[![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaneHope697)](https://github.com/JaneHope697/github-readme-stats)
