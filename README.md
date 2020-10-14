@@ -12,3 +12,5 @@ My name is Jane O'Donnell. I recently completed the CodeClan Professional Softwa
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JaneHope607&repo=github-readme-stats)](https://github.com/JaneHope607/github-readme-stats)
