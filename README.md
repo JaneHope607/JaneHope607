@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jane O'Donnell. I completed the CodeClan Professional Software Development Course as part of Cohort E41. I am based in Edinburgh and looking for work in Software Development.
+My name is Jane O'Donnell.
 
 - 🔭  I’m currently working on my portfolio and continuing working on my CodeClan projects
 - 👯  I’m looking to collaborate on: Front-end projects
